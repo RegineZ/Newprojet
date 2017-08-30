@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Acceuil</title>
+<title>Accueil</title>
 </head>
 <body>
 <h1>Vous êtes sur votre page personnelle.</h1>
